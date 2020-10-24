@@ -78,29 +78,111 @@
   text-align: center;
 }
 
-#container {
+.container {
   margin-left: 50px;
   margin-right: 50px;
   overflow: hidden;
 }
 
-#left1 {
-  width: 20%;
+.left1 {
+  width: 19.5%;
+  float: left;
+  border-right: 1px solid black;
+  height: 120px;
+  padding-left: 5px;
+}
+.left2 {
+  width: 19.5%;
+  float: left;
+  border-right: 1px solid black;
+  height: 120px;
+  padding-left: 10px;
+}
+.left3 {
+  width: 19%;
+  float: left;
+  border-right: 1px solid black;
+  height: 120px;
+  padding-left: 10px;
+}
+.left4 {
+  width: 19.5%;
+  float: left;
+  border-right: 1px solid black;
+  height: 120px;
+  padding-left: 10px;
+}
+.left5 {
+  width: 19;
+  float: left;
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+.container2 {
+  margin-left: 50px;
+  margin-right: 50px;
+  overflow: hidden;
+}
+.c2l {
+  width: 17%;
+  float: left;
+  border-right: 1px solid black;
+  height: 1200px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.c2m {
+  width: 43%;
+  float: left;
+  height: 1200px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.c2r {
+  width: 35%;
+  float: left;
+  height: 1200px;
+  padding-left: 20px;
+  border-left: 1px solid black;
+}
+#house {
+  width: 150px;
+  height: 150px;
+  float: right;
+}
+#img1 {
+  width: 100px;
   float: left;
 }
-#left2 {
-  width: 20%;
+#img2 {
+  width: 100px;
   float: left;
 }
-#left3 {
-  width: 20%;
+#img3 {
+  width: 100px;
   float: left;
 }
-#left4 {
-  width: 20%;
+.c2rl {
   float: left;
+  width: 40%;
+  height: 800px;
+  border-right: 1px solid black;
+  padding-right: 10px;
 }
-#left5 {
-  width: 20%;
+.c2rr {
   float: left;
+  width: 50%;
+  padding-left: 10px;
+}
+#merlin {
+  float: left;
+  width: 600px;
+  padding-left: 10px;
+}
+#food {
+  width: 250px;
+  padding-top: 10px;
+}
+#horror {
+  width: 250px;
 }
