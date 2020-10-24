@@ -186,3 +186,72 @@
 #horror {
   width: 250px;
 }
+.container3 {
+  margin-left: 50px;
+  margin-right: 50px;
+  overflow: hidden;
+}
+.c3r {
+  width: 17%;
+  float: left;
+
+  height: 600px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.c3l {
+  width: 43%;
+  float: left;
+  height: 600px;
+  padding-left: 20px;
+  padding-right: 10px;
+  border-right: 1px solid black;
+}
+.c3m {
+  width: 35%;
+  float: left;
+  height: 600px;
+  padding-left: 10px;
+  border-right: 1px solid black;
+  padding-right: 10px;
+}
+#germany {
+  float: right;
+  width: 250px;
+}
+#gym {
+  float: right;
+  width: 250px;
+}
+#retire {
+  float: right;
+  width: 250px;
+}
+.c41 {
+  width: 24%;
+  float: left;
+  border-right: 1px solid black;
+  height: 200px;
+  padding-left: 5px;
+}
+.c42 {
+  width: 25%;
+  float: left;
+  border-right: 1px solid black;
+  height: 200px;
+  padding-left: 10px;
+}
+.c43 {
+  width: 24%;
+  float: left;
+  border-right: 1px solid black;
+  height: 200px;
+  padding-left: 10px;
+}
+.c44 {
+  width: 24%;
+  float: left;
+
+  height: 200px;
+  padding-left: 10px;
+}
